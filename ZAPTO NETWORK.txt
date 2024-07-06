@@ -1,0 +1,30 @@
+######################################################################
+######################################################################
+######################################################################
+#######							       #######
+#######							       #######
+#######			  Zapto Network V1.0		       #######
+#######		One of the best Viet Nam Minecraft Server      #######
+#######							       #######
+####### 						       #######
+#######							       #######
+#######							       #######
+######################################################################
+######################################################################
+######################################################################
+
+- Good:
+
+  + The most perfect Hypixel remake server in Viet Nam.
+
+  + Server's Hardware is stable and compatile with the minimum requirement of a Minecraft Server (Network Server).
+
+  + Secure your data and Anti-DDos Attack Features.
+
+  + All Popular minigames in Hypixel will be continued supporting and remaking in the future. 
+
+- Bad:
+
+  + Although this server is based on the Hypixel Server, It still not fully similar 100% (Version 1.0 Only Reached at 7.06%).
+
+  + Server Performance will sometimes freeze and lag moments if player amount >=20 (In ver1.0

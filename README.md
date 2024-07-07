@@ -1,4 +1,4 @@
-===================================== ZAPTO NETWORK =====================================
+======================= ZAPTO NETWORK =======================
 - We have some advices to improve your experience when play on our Minecraft server.
 - Although this server still have a lot of tool assistance to prevent any error that
 occur while playing on our server, but you can try these guide to have a maximum experience
@@ -14,5 +14,5 @@ Unvisible Tablist and Scoreboard about 50%, Unvisible any players over 3 chunks.
 |Balance|: Balance Particles Appearance, Auto change Visible & Unvisible. |Best Experience|:
 Enabled Full Particles, Visible All, Non-limited feature.
  + Enable Particles (Client): Enable Particles to show Particles from server.
-========================================================================================
+=============================================================
    

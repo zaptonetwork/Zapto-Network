@@ -21,5 +21,9 @@ world because these SB world is running on higher MC version (1.17.1).
 Forge, ensure that if you using any hack / cheat tool modifier, you will be BANNED (Through
 your IP). But, Server still accept any Client Modifiers Software Like: Lunar Client, Badlion
 Client,... You can see all the type of allowed client here: https://pastebin.com/raw/Urgdw1x8.
+  + Enable Sky (Optional): It is recommended to enable that setting because it is required to show the Skyblock Graveyard darkness sky.
 =========================================================
+
 Thanks for reading. 
+LASTEST SERVER VERSION: V1.1.5
+LASTEST MINECRAFT VERSION SUPPORTED: 1.21

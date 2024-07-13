@@ -21,7 +21,12 @@ world because these SB world is running on higher MC version (1.17.1).
 Forge, ensure that if you using any hack / cheat tool modifier, you will be BANNED (Through
 your IP). But, Server still accept any Client Modifiers Software Like: Lunar Client, Badlion
 Client,... You can see all the type of allowed client here: https://pastebin.com/raw/Urgdw1x8.
-  + Enable Sky (Optional): It is recommended to enable that setting because it is required to show the Skyblock Graveyard darkness sky.
+  + Enable Sky (Optional): It is recommended to enable that setting because it is required to
+show the Skyblock Graveyard darkness sky.
+  + TLauncher and Legacy TLauncher are not recommended to play on this server, It may cause a lot
+of error: Skin are not fully loaded or loaded incorrectly, Chunks sometimes fail on load, performance
+issues.
+-                                                       -
 =========================================================
 
 Thanks for reading. 
